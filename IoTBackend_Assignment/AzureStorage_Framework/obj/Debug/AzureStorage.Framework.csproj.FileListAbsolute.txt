@@ -1,0 +1,16 @@
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\obj\Debug\AzureStorage.Framework.csprojResolveAssemblyReference.cache
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\bin\Debug\AzureStorage_Framework.dll
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\bin\Debug\AzureStorage_Framework.pdb
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\bin\Debug\IoTBackend.Interfaces.dll
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\bin\Debug\IoTBackend.Models.dll
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\bin\Debug\IoTBackend.Interfaces.pdb
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\bin\Debug\IoTBackend.Models.pdb
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\obj\Debug\AzureStorage_Framework.dll
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\AzureStorage_Framework\obj\Debug\AzureStorage_Framework.pdb

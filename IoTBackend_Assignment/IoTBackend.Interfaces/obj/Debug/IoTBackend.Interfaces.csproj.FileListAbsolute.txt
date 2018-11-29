@@ -1,0 +1,7 @@
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\IoTBackend.Interfaces\obj\Debug\IoTBackend.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\IoTBackend.Interfaces\bin\Debug\IoTBackend.Interfaces.dll
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\IoTBackend.Interfaces\bin\Debug\IoTBackend.Interfaces.pdb
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\IoTBackend.Interfaces\bin\Debug\IoTBackend.Models.dll
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\IoTBackend.Interfaces\bin\Debug\IoTBackend.Models.pdb
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\IoTBackend.Interfaces\obj\Debug\IoTBackend.Interfaces.dll
+C:\Users\m1034336\Documents\Visual Studio 2017\Projects\IoTBackend_Assignment\IoTBackend.Interfaces\obj\Debug\IoTBackend.Interfaces.pdb
